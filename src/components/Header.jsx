@@ -11,7 +11,7 @@ function Header(){
         <div className="header">
             <div className="header_lef">
             <MenuIcon/>
-            <img  className="header__logo"src="https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500" alt="" />
+            <img  className="header__logo"src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1280px-Logo_of_YouTube_%282015-2017%29.svg.png" alt="" />
             </div>
             <div className="header_input">
             <input type="text" placeholder='Search' />
